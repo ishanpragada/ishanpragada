@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/ishanpragada/github-stats/master/generated/overview.svg" width="50%" /><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&text_color=838383" />
+<img align="center" src="https://raw.githubusercontent.com/ishanpragada/github-stats/master/generated/overview.svg" width="50%" /><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpragada&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&text_color=838383" />
 
 
 [![](https://raw.githubusercontent.com/ishanpragada/github-stats/master/generated/overview.svg)](https://github.com/ishanpragada)
