@@ -1,6 +1,6 @@
 
 
-[![](https://raw.githubusercontent.com/ishanpragada/github-stats/master/generated/overview.svg)](https://github.com/saforem2)
+[![](https://raw.githubusercontent.com/ishanpragada/github-stats/master/generated/overview.svg)](https://github.com/ishanpragada)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpragada&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&text_color=838383)](https://github.com/saforem2/github-readme-stats)
 
