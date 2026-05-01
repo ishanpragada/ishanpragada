@@ -8,7 +8,7 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=ishanpragada&color=red&style=flat)](https://komarev.com/ghpvc/?username=ishanpragada)
 
-👋 Hi, I am Ishan — an undergraduate studying CS at UIUC and an incoming SDE intern @ AWS. I am passionate about systems programming, performance engineering, and low-latency execution on Linux. I love building things that are fast, reliable, and meaningful — from database storage engines and AI apps to browser extensions and full-stack products. I am also interested in identifying and addressing health infodemics.
+👋 Hi, I am Ishan — an undergraduate studying CS at UIUC. I am passionate about systems programming, performance engineering, and low-latency execution on Linux. I love building things that are fast, reliable, and meaningful — from database storage engines and AI apps to browser extensions and full-stack products. I am also interested in identifying and addressing health infodemics.
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
