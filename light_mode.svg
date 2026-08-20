@@ -25,13 +25,12 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="72">██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗</tspan>
-<tspan x="15" y="89">██║██╔════╝██║  ██║██╔══██╗████╗  ██║</tspan>
-<tspan x="15" y="106">██║███████╗███████║███████║██╔██╗ ██║</tspan>
-<tspan x="15" y="123">██║╚════██║██╔══██║██╔══██║██║╚██╗██║</tspan>
-<tspan x="15" y="140">██║███████║██║  ██║██║  ██║██║ ╚████║</tspan>
-<tspan x="15" y="157">╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</tspan>
-<tspan x="15" y="199"><tspan class="dim">     B U Y Y A N A P R A G A D A</tspan></tspan>
+<tspan x="15" y="96">██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗</tspan>
+<tspan x="15" y="113">██║██╔════╝██║  ██║██╔══██╗████╗  ██║</tspan>
+<tspan x="15" y="130">██║███████╗███████║███████║██╔██╗ ██║</tspan>
+<tspan x="15" y="147">██║╚════██║██╔══██║██╔══██║██║╚██╗██║</tspan>
+<tspan x="15" y="164">██║███████║██║  ██║██║  ██║██║ ╚████║</tspan>
+<tspan x="15" y="181">╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</tspan>
 <tspan x="15" y="230"><tspan class="dim">╭</tspan><tspan class="dim">───────────────────────────────────</tspan><tspan class="dim">╮</tspan></tspan>
 <tspan x="15" y="250"><tspan class="dim">│</tspan> <tspan class="key">$ whoami</tspan>                          <tspan class="dim">│</tspan></tspan>
 <tspan x="15" y="270"><tspan class="dim">│</tspan> <tspan class="value">&gt; cs @ illinois</tspan>                   <tspan class="dim">│</tspan></tspan>
@@ -47,9 +46,9 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="490">     <tspan class="sw0">███</tspan> <tspan class="sw1">███</tspan> <tspan class="sw2">███</tspan> <tspan class="sw3">███</tspan> <tspan class="sw4">███</tspan> <tspan class="sw5">███</tspan> <tspan class="sw6">███</tspan></tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">ishan@buyyanapragada</tspan> -———————————————————————————————————-—-
+<tspan x="390" y="30">ishan@ishankr</tspan> -——————————————————————————————————————————-—-
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">macOS 26, Ubuntu 24.04</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">21 years, 7 months, 18 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">20 years, 5 months, 6 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">University of Illinois Urbana-Champaign</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">B.S. Computer Science</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, Neovim, Claude Code</tspan></tspan>

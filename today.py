@@ -23,7 +23,7 @@ import hashlib
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME'] # 'ishanpragada'
-BIRTHDAY = datetime.datetime(2005, 1, 1) # TODO: set to your real birthday, this drives the Uptime line
+BIRTHDAY = datetime.datetime(2006, 3, 14) # drives the Uptime line
 
 # Repos whose lines of code are ignored, because the diff is dominated by vendored or
 # generated files rather than authored code (portfolio_website has commits named

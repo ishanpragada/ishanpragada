@@ -1,7 +1,7 @@
 <a href="https://github.com/ishanpragada/ishanpragada">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishanpragada/ishanpragada/main/dark_mode.svg">
-    <img alt="Ishan Buyyanapragada's GitHub Profile README" src="https://raw.githubusercontent.com/ishanpragada/ishanpragada/main/light_mode.svg">
+    <img alt="Ishan's GitHub Profile README" src="https://raw.githubusercontent.com/ishanpragada/ishanpragada/main/light_mode.svg">
   </picture>
 </a>
 

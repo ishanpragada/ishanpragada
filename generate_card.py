@@ -10,7 +10,7 @@ Layout is adapted from https://github.com/Andrew6rant/Andrew6rant
 
 # ── everything you'd want to edit lives here ──────────────────────────────
 CONFIG = {
-    'prompt': 'ishan@buyyanapragada',
+    'prompt': 'ishan@ishankr',
     'info': [
         ('OS', 'macOS 26, Ubuntu 24.04'),
         ('Uptime', None),  # None -> live counter, filled by today.py
@@ -40,7 +40,7 @@ CONFIG = {
         '██║███████║██║  ██║██║  ██║██║ ╚████║',
         '╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝',
     ],
-    'subtitle': 'B U Y Y A N A P R A G A D A',
+    'subtitle': '',   # set a string to print a line under the banner
     'terminal': [
         ('$ whoami', None),
         (None, '> cs @ illinois'),
@@ -72,7 +72,7 @@ THEMES = {
 WIDTH = 985
 ART_X, INFO_X = 15, 390
 ROW_0, ROW_H = 30, 20
-BANNER_Y, BANNER_H = 72, 17   # banner sits on a tighter rhythm, see build_art_lines
+BANNER_Y, BANNER_H = 96, 17   # banner sits on a tighter rhythm, see build_art_lines
 BOX_Y = 230                   # top border of the terminal box
 LINE_W = 60          # every info line is padded to exactly this many chars
 ART_W = 37           # banner width, also the terminal box width
@@ -170,8 +170,9 @@ def build_art_lines(theme):
     for row in CONFIG['banner']:
         rows.append((y, esc(row)))
         y += BANNER_H
-    rows.append((y + 25, '<tspan class="dim">%s</tspan>' % esc(
-        CONFIG['subtitle'].center(ART_W).rstrip())))
+    if CONFIG['subtitle']:
+        rows.append((y + 25, '<tspan class="dim">%s</tspan>' % esc(
+            CONFIG['subtitle'].center(ART_W).rstrip())))
 
     box = lambda l, body, r: '<tspan class="dim">%s</tspan>%s<tspan class="dim">%s</tspan>' % (l, body, r)
     y = BOX_Y
